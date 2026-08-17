@@ -3,7 +3,7 @@
   "description": "The Official Consumet Website",
   "version": "0.0.1",
   "engines": {
-    "node": ">=16.10.0"
+    "node": ">=18.0.0 <21.0.0"
   },
   "browserslist": [
     "defaults"
